@@ -4,7 +4,7 @@ My favorite code quote, "<span id="k">It does not matter how fast it is done, if
 
 Hey There! I am Luke Caporale.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-This is my portfolio website. 
+<p>This is my portfolio website.</p>
 
 <p>I am a follower of Christ and am passionate about doing all that I do with the highest quality possible to honor Him.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>I have spent most of my career in the construction industry and starting off working in remodeling with my father who is a master home builder. I then moved on to hold mutliple positions at a Tile distribution company called Best Tile.</p>
