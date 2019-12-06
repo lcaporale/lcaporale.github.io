@@ -11,9 +11,9 @@ Hey There! I am Luke Caporale.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 <p>I love playing music, drama, reading, Theology and have enjoyed dabbling a bit with web programming.</p>
 
-<br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p>You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<br><br><br>Links to my projects? <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>Links to my profiles, here: <br> <a href="link1">LinkedIn</a> <br> <a href="link2">Facebook</a> and <br> <a href="link3">Instagram</a>.</p>
 If you would like to get in touch with me,<!-- slightdelayhere-->feel free to send me an email at<!-- longlonglongcomment --><a href="lukecaporale@gmail.com"> Lukecaporale@gmail.com</a>.
 
-<p>Cheers!</p>
+<p>Farewell!</p>
 <span id="a">@LukeCaporale</span>:<span id="b">~</span><span id="c">$</span> exit
