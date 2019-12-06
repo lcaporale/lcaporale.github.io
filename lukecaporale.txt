@@ -1,15 +1,15 @@
 <span id="a">@LukeCaporale</span>:<span id="b">~</span><span id="c">$</span> cd LukeCaporale/<!-- kjsdfhkjdhsfkjdshfkj -->About_Caporale
 <span id="a">@LukeCaporale</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->lukecaporale.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+My favorite code quote, "<span id="k">It does not matter how fast it is done, if it is not correct</span>". <!-- sjkfhskjf -->
 
 Hey There! I am Luke Caporale.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 This is my portfolio website. 
 
 <p>I am a follower of Christ and am passionate about doing all that I do with the highest quality possible to honor Him.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p>I have spent most of my career in the construction industry and starting off working in remodeling with my father who is a master home builder. I then moved on to hold mutliple positions at a Tile distribution company called Best Tile. 
+<p>I have spent most of my career in the construction industry and starting off working in remodeling with my father who is a master home builder. I then moved on to hold mutliple positions at a Tile distribution company called Best Tile.</p>
 
-<p>I love playing music, drama, reading, Theology and have enjoyed dabbling a bit with web programming.  
+<p>I love playing music, drama, reading, Theology and have enjoyed dabbling a bit with web programming.</p>
 
 <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p>You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
