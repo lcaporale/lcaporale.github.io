@@ -10,7 +10,7 @@ Hey There! I am Luke Caporale.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 <p>I have spent most of my career in the construction industry and starting off working in remodeling with my father who is a master home builder. I then moved on to hold multiple positions at a Tile distribution company called Best Tile.</p>
 
-<p>I love music, drama, literature, theology and have enjoyed dabbling a bit with web programming. Right now I have been exploring my interests and would like to one day find a way to combine some of these various interests together in a project of some sort.</p>
+<p>I love music, drama, literature, theology and have enjoyed dabbling a bit with web programming. Right now I have been exploring my interests and would like to one day find a way to combine some of these various interests in a project of some sort.</p>
 
 <p>Links to my projects? <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
