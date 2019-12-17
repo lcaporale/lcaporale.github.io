@@ -4,18 +4,19 @@ My favorite code quote, "<span id="k">It does not matter how fast it can done, i
 
 Hey There! I am Luke Caporale.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<p>This is my portfolio website. I am putting together a quick introduction page that will link to other web projects I work on along with links to some of my social media profiles. It has been pretty cool learning to do this!</p>
+<p>It is my intent that this site will a place where I can give a quick introduction of myself and provide some links to any future web projects I work on. I also inted to include linksto some of my social media profiles. I have enjoyed learning to do this!</p>
 
-<p>I am a follower of Christ and am passionate about doing all that I do with the highest quality possible to honor Him.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>I am a follower of Christ and am passionate about doing all that I do with the highest quality possible to honor Him. Colossians 3:17 says, "And whatever you do in word or deed, do all in the name of the Lord Jesus, giving thanks to God the Father through Him." NKJV
+It is my desire to live this verse out in my life and in such a way that others will be able to see God's love through me and be drawn to Him.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<p>I have spent most of my career in the construction industry and starting off working in remodeling with my father who is a master home builder. I then moved on to hold multiple positions at a Tile distribution company called Best Tile.</p>
+<p>I have spent most of my career in the construction industry and starting off working in remodeling with my father who is a home builder. I then moved on to hold multiple positions at a Tile distribution company called Best Tile where I have learned a lot about business operations, sales and project management.</p>
 
-<p>I love music, drama, literature, theology and have enjoyed dabbling a bit with web programming. I have been exploring my interests and would like to find a way to combine some of them into a project of some sort.</p>
+<p>I love music, drama, acting, literature, storytelling, theology and have also enjoyed dabbling a bit with web programming! I also am interested in science, math, accounting and project management. I am still exploring my interests and would like to find a way to combine a few of them into a collaborative project of some sort. Maybe, a multimedia blog? I am not sure at this point. </p>
 
 <p>Links to my projects? <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
-<p>Links to my profiles, here: <br> <a href="link1">LinkedIn</a> <br> <a href="link2">Facebook</a> and <br> <a href="link3">Instagram</a>.</p>
-<p>If you would like to get in touch with me,<!-- slightdelayhere--> feel free to send me an email at<!-- longlonglongcomment --><a href="lukecaporale@gmail.com"> Lukecaporale@gmail.com</a>.</p>
+<p>Links to my profiles, here: <br> <a href="https://www.linkedin.com/in/luke-caporale-5654a118b/">LinkedIn</a> <br> <a href="https://www.facebook.com/profile.php?id=100004236349208">Facebook</a> and <br> <a href="link3">Instagram</a>.</p>
+<p>If you would like to get in touch with me,<!-- slightdelayhere--> feel free to send me an email at<!-- longlonglongcomment --><a href="mailto:lukecaporale@gmail.com?"> Luke Caporale</a>.</p>
 
 <p>Farewell!</p>
 <span id="a">@LukeCaporale</span>:<span id="b">~</span><span id="c">$</span> exit
