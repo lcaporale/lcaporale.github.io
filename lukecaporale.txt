@@ -4,7 +4,13 @@ One of my favorite quotes: "Genius is the ability to reduce the complicated to t
 
 Hey There! My name is Luke Caporale.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-I am an experienced IT professional with a strong background in technical support, sales management, and business administration. I'm skilled in various operating systems, cloud platforms, and have basic experience in several scripting and programming languages. I carry with me years of business, management, and customer service experience. Over these years I have aided with information technology infrastructure installations and equipment specifications. I have assisted with hardware, and software troubleshooting and have often been called upon to perform these functions whenever an issue has risen due to my ability to think critically to troubleshoot and resolve issues related to technology. I have a passion for people, mentoring, customer service, business development, and leveraging technology to serve business needs. I love understanding how technologies work, helping clients quickly resolve issues with empathy, determining why issues occurred and concisely communicating and educating users so they can avoid or even resolve issues themselves in the future. I currently have CompTia’s A+ & ITF certifications. I plan to pursue further training in IT through certifications & online courses. I believe my experience & skills would be an asset to your company and that I would be able to help in fulfilling the vision you have for your IT department.
+I am an experienced IT professional with a strong background in technical support, sales management, and business administration. I'm skilled in various operating systems, cloud platforms, and have basic experience in several scripting and programming languages.
+
+I have a passion for understanding technologies and helping clients resolve issues. I enjoy the investigative process of determining root causes and and educating users so they are equipped to resolve future issues independently when possible.
+
+I'm currently working on finishing a B.S. in Information Technology (expected completition December 2024) and plan to go on to pursue a Masters in Information Technology management after completion. I've earned a variety of industry certifications as well including AWS Certified Cloud Practitioner, CompTIA Network+, Security+, A+, ITF+, and ITILv4. 
+
+With my skills and experience, I am confident that I can be an asset to your company, contributing to the success and growth of your IT department.
 
 You can find me on LinkedIn here: <a href="https://www.linkedin.com/in/luke-caporale-5654a118b/">LinkedIn</a>
 
