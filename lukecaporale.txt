@@ -6,15 +6,12 @@ Hey There! My name is Luke Caporale.<!-- laglaglaglaglaglaglaglaglaglaglaglag --
 
 I am an experienced IT professional with a strong background in technical support, sales management, and business administration. I'm skilled in various operating systems, cloud platforms, and have basic experience in several scripting and programming languages.
 
-I have a passion for understanding technologies and helping clients resolve issues. I enjoy the investigative process of determining root causes and and educating users so they are equipped to resolve future issues independently when possible.
+I have a passion for understanding technologies, teaching, and helping clients resolve issues. I'm currently working on finishing a B.S. in Information Technology (expected December 2024) and plan to go on to pursue a M.S. in Information Technology management after completion. I've earned a variety of industry certifications including AWS Certified Cloud Practitioner, CompTIA Network+, Security+, A+, ITF+, and ITILv4 Foundations.
 
-I'm currently working on finishing a B.S. in Information Technology (expected completition December 2024) and plan to go on to pursue a Masters in Information Technology management after completion. I've earned a variety of industry certifications as well including AWS Certified Cloud Practitioner, CompTIA Network+, Security+, A+, ITF+, and ITILv4. 
-
-With my skills and experience, I am confident that I can be an asset to your company, contributing to the success and growth of your IT department.
+With my skills and experience, I am confident that I can be an asset to your company, contributing to the success of your support department.
 
 You can find me on LinkedIn here: <a href="https://www.linkedin.com/in/luke-caporale-5654a118b/">LinkedIn</a>
 
-If you would like to get in touch with me directly,<!-- slightdelayhere--> you can also send me an email at<!-- longlonglongcomment --><a href="mailto:lukecaporale@gmail.com?"> lukecaporale@gmail.com</a>.
+If you would like to get in touch with me directly,<!-- slightdelayhere--> you can send me an email at<!-- longlonglongcomment --><a href="mailto:lukecaporale@gmail.com?"> lukecaporale@gmail.com</a>.
 
-*Terminal code not my own.
 <span id="a">@LukeCaporale</span>:<span id="b">~</span><span id="c">$</span> exit
